@@ -1,1 +1,0 @@
-{"version":3,"sources":["styles\\main.scss"],"names":[],"mappings":"AAEA,KACI","file":"src.c95ad533.css","sourceRoot":"..\\src","sourcesContent":["$goodcolor:pink;\r\n\r\nbody{\r\n    background-color: $goodcolor;\r\n}"]}
